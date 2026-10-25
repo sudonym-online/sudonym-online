@@ -1,4 +1,4 @@
-# Nicholas
+# Nick
 
 High school student in Texas who likes building tools people use every day: browser extensions, web apps, and games. I've built projects through the Code2College program and interned as a software engineer at Loxo in summer 2026.
 
